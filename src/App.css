@@ -1,0 +1,20 @@
+.container{
+  width:90%;
+  margin:10px auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.row p{
+  width:30%;
+  text-align: center;
+}
+.row .button{
+  width:30%;
+  text-align: center;
+}
+tr{
+  text-align: center;
+}
